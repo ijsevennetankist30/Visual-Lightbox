@@ -210,4 +210,4 @@ Visual LightBox is available as a **full free version** with all features and up
 Start creating stunning image galleries today with **Visual LightBox**! Download now and unleash your creativity!
 
 ---
-**Last updated:** 2026-09-22 15:24:08 UTC
+**Last updated:** 2026-09-22 19:32:18 UTC
